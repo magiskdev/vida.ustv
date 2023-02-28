@@ -1,0 +1,17 @@
+{
+    "icon": "smallIcon.png",
+    "main": "index.html",
+    "bgImage": "splashBackground.png",
+    "title": "US TV - Live TV",
+    "type": "web",
+    "version": "1.0.1",
+    "splashBackground": "splashBackground.png",
+    "transparent": true,
+    "bgColor": "#1A1A1A",
+    "vendor": "V.S. Limex Broadcast Systems",
+    "largeIcon": "largeIcon.png",
+    "iconColor": "#1A1A1A",
+    "id": "ussmarttv.webos",
+    "app_id": "ustv",
+    "disableBackHistoryAPI":true
+}
